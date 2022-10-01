@@ -1,13 +1,19 @@
 .mt{
     margin-top: 4px;
 }
+
+/* .content{
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+} */
 .container{
    
         background-color: white;
-        border-radius: 10px;
+        /* border-radius: 10px; */
         padding-top: 10px;
         transform: translateY(15px);
-        box-shadow: 0 0 20px rgb(0 0 0 / 30%);
+        box-shadow: 0 11px 20px 5px rgb(0 0 0 / 31%);
         padding: 10px;
     
 }
